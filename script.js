@@ -1,4 +1,4 @@
-// DigiPrint.in.th - JavaScript
+// DigiPrint.today - JavaScript
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Menu Toggle
@@ -114,3 +114,4 @@ document.addEventListener('DOMContentLoaded', function() {
     const statsCard = document.querySelector('.stats-card');
     if (statsCard) statsObserver.observe(statsCard);
 });
+
